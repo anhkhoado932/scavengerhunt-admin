@@ -1,5 +1,5 @@
 # Next.js Application with Shadcn UI
-
+![assets/diagram.png](assets/diagram.png)
 A modern, responsive web application built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI components.
 
 ## Features
